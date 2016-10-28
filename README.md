@@ -14,4 +14,4 @@ Note that in order to call the binary from any folder you have to change the pat
 
 <code>"PATH_TO_FOLDER/websocket-golang-chat/chat.html"</code>
 
-If your not going to need to call it from anywhere but the current folder then dont do anything.
+If you're not going to need to call it from anywhere but the current folder, then don't do anything.
